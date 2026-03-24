@@ -1,0 +1,5 @@
+required-seconds: 30
+
+deny-message: "&cSohbete yazabilmek için &e{time} &csaniye hareket etmelisin."
+
+wait-message: "&cSohbete yazabilmek için &e{time} &csaniye daha beklemelisin."

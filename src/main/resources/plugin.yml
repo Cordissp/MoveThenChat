@@ -1,0 +1,11 @@
+name: MoveThenChat
+version: 1.0.0
+main: com.movetthenchat.MoveThenChat
+api-version: "1.20"
+description: Players must move for a configurable time before they can chat.
+author: Cordissp
+
+permissions:
+  movetthenchat.bypass:
+    description: Bypass the move requirement.
+    default: op
